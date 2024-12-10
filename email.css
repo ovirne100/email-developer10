@@ -178,6 +178,8 @@ footer {
     gap: 70px;
     margin-left: 70px;
     align-items: center;
+    width: 100%;
+    margin: 0 auto;
   }
   .view a {
     display: none;
@@ -272,6 +274,7 @@ footer {
 
   footer {
     background-color: darkgray;
+    max-width: 100%;
   }
   .social-icons {
     display: flex;
@@ -283,3 +286,4 @@ footer {
     background-color: #7c7979;
   }
 }
+
